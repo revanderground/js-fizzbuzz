@@ -22,7 +22,6 @@ for (let index = 1; index < 101 ; index++) {
         numberWrapperRow.append(flashyBox); 
     } else {
         console.log(flashyBox);
-        
         numberWrapperRow.append(flashyBox); 
     }     
 }
