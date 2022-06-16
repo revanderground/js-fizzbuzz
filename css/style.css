@@ -1,0 +1,16 @@
+
+
+div.col-2.box{
+    background-color: magenta;
+    padding: 1rem;
+    border:3px dotted #00ffff;
+    border-radius:15px;
+    height: 4rem;
+    font-size: 2rem;
+    font-weight:bold;
+    text-align: center;
+}
+
+.numero{
+    width:40%;
+}
